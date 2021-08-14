@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 
 const Background = () => {
-
+  //good!
   return <div style={{display:'flex', height:1000, 
   width: 1500,
   backgroundColor:'rgba(0,0,0,0.1)'}}>
